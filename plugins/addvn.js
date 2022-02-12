@@ -1,3 +1,8 @@
+/* Copyright ©  @neerajproo.
+you can copy file. but credit must be there!!!
+TonuStark - neerajproo
+*/
+
 function R(o, s) {
   const l = Q();
   return R = function (O, C) {
